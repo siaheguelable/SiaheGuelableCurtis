@@ -13,9 +13,9 @@ I'm Siahe Guelable Curtis, a student at Brigham Young University-Idaho intereste
 ## Technologies and Tools
 
 - Proficient in:
-- Node JS,
+- Node JS <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="React" alt="React" width="40" height="40">
 - React  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-- MYSQL   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="React" alt="React" width="40" height="40">
+- MYSQL  
 - MongoDB
 - HTML
 -CSS,
